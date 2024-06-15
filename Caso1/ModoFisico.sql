@@ -48,8 +48,7 @@ CREATE TABLE IF NOT EXISTS ProductoProveedor (
   CONSTRAINT fk_ProductoProveedor_Proveedor1
     FOREIGN KEY (Proveedor_ID_Proveedor)
     REFERENCES Proveedor (ID_Proveedor)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION
+  
 );
 
 -- -----------------------------------------------------
