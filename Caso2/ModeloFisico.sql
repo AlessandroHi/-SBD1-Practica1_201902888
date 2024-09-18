@@ -1,6 +1,6 @@
 
 -- -----------------------------------------------------
--- Schema que contiene las tablas de la base de datos
+-- Schema que contiene las tablas de la base de datosxxdxd
 -- -----------------------------------------------------
 DROP DATABASE IF EXISTS CASO2 ;
 
